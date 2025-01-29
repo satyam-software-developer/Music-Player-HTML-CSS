@@ -7,3 +7,5 @@ I have uploaded a total of 4 files here:-
    2. MusicPlayerSinglePlaylistScreen.html - It consists of the Single Playlist Screen's HTML code of the Music Player.
    3. MusicPlayerStyle.css - It consists of the styling for both the HTML pages in CSS.
    4. MusicPlayerProject.zip - It is a zip file that consists of all the required images along with the HTML and CSS files for the project to work properly. If you want to view the project, download this file only.
+# Music-Payer-HTML-CSS
+  - Problem Statement: https://classroom.codingninjas.com/app/classroom/me/22402/content/499565/offering/7445994?leftPanelTabValue=PROBLEM
